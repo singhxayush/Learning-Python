@@ -1,0 +1,8 @@
+#!/bin/bash
+clear
+
+read -r file_name < filename
+python3 "$file_name.py" > op.txt
+
+
+exit

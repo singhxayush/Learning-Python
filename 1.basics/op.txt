@@ -1,0 +1,6 @@
+{'c': 3, 'a': 1, 'b': 2, 'd': 4}
+4
+hello world!
+3
+False
+2
