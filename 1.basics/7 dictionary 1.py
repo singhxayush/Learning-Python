@@ -37,3 +37,4 @@ dict1 = {
 print(dict1[True]) #? in case of multiple occurances, last instance is getting printed
 
 # NOTE : A key must be immutable, i.e. a cannot change. for ex: a key cannot be a list
+
